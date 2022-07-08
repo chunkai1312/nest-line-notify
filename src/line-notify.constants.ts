@@ -1,0 +1,2 @@
+export const LINE_NOTIFY_INSTANCE = Symbol('LINE_NOTIFY_INSTANCE');
+export const LINE_NOTIFY_OPTIONS = Symbol('LINE_NOTIFY_OPTIONS');

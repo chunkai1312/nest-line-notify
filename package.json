@@ -1,7 +1,7 @@
 {
   "name": "nest-line-notify",
   "version": "0.1.0",
-  "description": "A Nest module for LINE Notify",
+  "description": "LINE Notify module for Nest",
   "author": "Chun-Kai Wang <chunkai1312@gmail.com>",
   "keywords": [
     "nest",
@@ -34,7 +34,8 @@
     "line-notify-sdk": "^2.0.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "uid2": "^1.0.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
