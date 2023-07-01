@@ -1,6 +1,6 @@
 {
   "name": "nest-line-notify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "LINE Notify module for Nest",
   "author": "Chun-Kai Wang <chunkai1312@gmail.com>",
   "keywords": [
